@@ -1,4 +1,4 @@
-## Open the Gamefroot Classic Template {#open-the-gamefroot-classic-template}
+#Open the Gamefroot Classic Template {#open-the-gamefroot-classic-template}
 
 ![templates](assets/templates.png)
 
