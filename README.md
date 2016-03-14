@@ -1,4 +1,4 @@
-# TutorialsSidebarMakeagamewiththeClassicTemplate {#tutorialssidebarmakeagamewiththeclassictemplate}
+# Make a game with the Classic Template {#make a game with the classic template}
 
 **Welcome to Gamefroot!**
 
