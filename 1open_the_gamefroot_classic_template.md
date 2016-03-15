@@ -1,2 +1,2 @@
-# Open the Gamefroot Classic Template
+# TOpen the Gamefroot Classic Template
 
