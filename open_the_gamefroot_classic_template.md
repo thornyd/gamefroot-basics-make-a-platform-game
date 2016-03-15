@@ -1,5 +1,5 @@
-#Open the Gamefroot Classic Template {#open-the-gamefroot-classic-template}
+#Open the Gamefroot Classic Template 
 
-![templates](assets/templates.png)
+![](template-small.png)
 
 Open the Gamefroot Classic Template by clicking **File, New Game** from the menu bar.
