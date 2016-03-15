@@ -2,7 +2,7 @@
 
 * [Make a game with the Classic Template](README.md)
    * [Open the Gamefroot Classic Template](open_the_gamefroot_classic_template.md)
-   * [Viewing the Game Level](Editing_the_Game_level.md)
+   * [Viewing the Game Level](Viewing_the_Game_level.md)
    * [Drawing terrain](drawing_terrain.md)
    * [Erasing and moving objects](erasing_and_moving_objects/README.md)
    * [Moving things](erasing_and_moving_objects/moving_things.md)
