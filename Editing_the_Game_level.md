@@ -1,4 +1,4 @@
-#Editing the Game level
+#Viewing the Game level
 
 We want to start off working on the **Game** level, but the current level open is the Start Screen level.
 
