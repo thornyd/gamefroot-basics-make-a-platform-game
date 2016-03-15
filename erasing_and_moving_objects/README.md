@@ -1,4 +1,4 @@
-## Erasing and moving objects {#erasing-and-moving-objects}
+## Erasing things {#erasing-things}
 
 Did you accidentally draw something in the wrong place? You can place, move, or delete things in your level by changing the tool selected from the toolbar.
 
