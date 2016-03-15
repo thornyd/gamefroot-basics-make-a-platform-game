@@ -1,6 +1,6 @@
 #Editing the Game level
 
-We want to start off working on the **Game** level, but the level currently open is the Start Screen level. (INSERT GIF HERE)
+We want to start off working on the **Game** level, but the current level open is the Start Screen level. (INSERT GIF HERE)
 
 ![levels](assets/levels.jpeg)
 
