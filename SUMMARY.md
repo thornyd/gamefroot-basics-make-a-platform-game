@@ -1,8 +1,8 @@
 # Summary
 
 * [Make a game with the Classic Template](README.md)
+   * [Open the Gamefroot Classic Template](Topen_the_gamefroot_classic_template/Topenthe_gamefroot_classic_template_md.md)
    * [Open the Gamefroot Classic Template](1open_the_gamefroot_classic_template.md)
-* [Open the Gamefroot Classic Template](Topen_the_gamefroot_classic_template/Topenthe_gamefroot_classic_template_md.md)
 * [Start by playing the game](open_the_gamefroot_classic_template/start_by_playing_the_game.md)
 * [The Game level](the_game_level/README.md)
 * [Moving around the level](the_game_level/moving_around_the_level.md)
