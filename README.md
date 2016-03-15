@@ -1,6 +1,6 @@
 **Welcome to Gamefroot!**
 
-In this tutorial you’ll learn how to create your own platform game in a few minutes.
+In this tutorial you’ll learn the basics of Gamefroot by making a platform game using the Classic Template.
 
 ![](ezgif.com-gif-maker.gif)
 
