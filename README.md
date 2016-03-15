@@ -1,5 +1,3 @@
-# Make a game with the Classic Template {#make a game with the classic template}
-
 **Welcome to Gamefroot!**
 
 In this tutorial you’ll learn how to create your own platform game in a few minutes.
