@@ -11,4 +11,5 @@
    * [Using Layers and Tile Maps for Game Objects and Terrain](using_layers_and_tile_maps_for_game_objects_and_te.md)
    * [Changing Properties of Game Objects](changing_properties_of_game_objects.md)
    * [Experiment and improve your game](experiment_and_improve_your_game.md)
+* Open the Gamefroot Classic Template
 
