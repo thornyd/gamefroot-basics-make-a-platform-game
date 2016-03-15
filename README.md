@@ -1,5 +1,3 @@
-
-
 ## Welcome to Gamefroot!
 
 In this tutorial you’ll learn the basics of Gamefroot by making a platform game using the Classic Template.
