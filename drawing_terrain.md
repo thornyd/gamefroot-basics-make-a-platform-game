@@ -1,4 +1,4 @@
-## Drawing terrain {#drawing-terrain}
+#Drawing terrain
 
 Once you’ve seen what’s already in the level, we’re going to start adding some terrain.
 
