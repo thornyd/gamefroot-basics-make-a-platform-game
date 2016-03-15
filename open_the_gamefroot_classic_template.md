@@ -21,6 +21,6 @@ This game uses the arrow keys to move your character, and spacebar to jump.
 
 As you’re playing the game, think about how you might improve it.
 
-
+![](edit-button.png)
 
 To return to editing the game, click **EDIT** in the top-right corner.
