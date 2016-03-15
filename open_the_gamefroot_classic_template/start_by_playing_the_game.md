@@ -1,6 +1,6 @@
 ### Start by playing the game {#start-by-playing-the-game}
 
-![](../assets/templates.png)
+
 
 Preview how the game looks by clicking **PLAY** in the top-right corner.
 
