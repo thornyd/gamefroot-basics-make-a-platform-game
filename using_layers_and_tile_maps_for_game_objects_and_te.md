@@ -1,27 +1,40 @@
-## Using Layers and Tile Maps for Game Objects and Terrain {#using-layers-and-tile-maps-for-game-objects-and-terrain}
+#Using Layers and Tile Maps
 
-If you place game objects in a tile map layer, they will be converted to be like terrain – this makes them solid and keeps them stuck in place. If we want our game objects to be able to do more than just sit there, we need to place them on a regular layer (not terrain/tile map).
+Layers can help you to organize the different things inside your level. You can see your layers in the **Layers panel** on the right.
 
->Note: Tile map layers have a grid icon to the right, and are crossed out in the image below.
+![](layers panel.png)
 
-![regular-layers](assets/regular-layers.jpeg)
+Anything that is placed in your level will go **inside the currently selected layer.** To select a tile map layer or a regular layer, **click on it** in the **Layers Panel**.
 
-(INSERT GIF HERE)
 
-To do this, click on the one of the layers without a grid in the Layers panel. Now anything that is placed in your level will go inside this layer.
+## Tile Maps
 
-This helps you to organise the different things inside your level.
+![](tille map.png)
 
-You can move layers in front of or behind each other by clicking and dragging on the layer in the layers panel.
+**Tile Maps** are for terrain. Anything placed in a tile map layer will become solid and stuck in one place. When a tile map is selected, you can see a **grid** in your level, and a small **grid icon** next to the tile map in the **Layers** panel.
 
-![layers5](assets/layers5.jpeg)
+##Layers
 
-(INSERT GIF HERE)
+![](layer.png)
 
-You can create a new layer by clicking the plus icon next to Layers, and you can delete a layer by clicking the trash can icon next to the plus icon.
+Regular **layers** are for game objects like characters and interactive objects that need to be able to move around and do things. 
+
+
+---
+
+##Reordering layers
+
+You can **move layers in front of or behind each other** by clicking and dragging on the layer in the layers panel.
+
+![](reordering layers.gif)
+
+
+---
+
+##Creating and deleting layers
+
+You can **create a new layer or tilemap** by clicking the **+ ** button next to **Layers.** 
 
 ![layers4](assets/layers4.jpeg)
 
-(INSERT GIF HERE)
-
->Be careful, though – if you delete a layer, everything inside it will be deleted too.
+You can **delete a layer or tile map** by clicking the **trash can** button next to the** + **button. **Be careful:** if you delete a layer, everything inside it will be deleted.
