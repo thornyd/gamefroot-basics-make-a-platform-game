@@ -1,8 +1,8 @@
-## Erasing things {#erasing-things}
+#Erasing things
 
-Did you accidentally draw something in the wrong place? You can place, move, or delete things in your level by changing the tool selected from the **toolbar.**
+Did you accidentally draw something in the wrong place? You can delete things in your level by switching to the **eraser tool** from the **toolbar.**
 
-To switch to deleting things, click on the **eraser tool** from the toolbar. Now click on anything you want to delete.
+Click on the **eraser tool**, and then click on anything you want to delete.
 
 ![](eraser-tool.jpg)
 
