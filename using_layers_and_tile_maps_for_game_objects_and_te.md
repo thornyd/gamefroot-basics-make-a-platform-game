@@ -4,7 +4,9 @@ Layers can help you to organize the different things inside your level. You can 
 
 ![](layers panel.png)
 
-Anything that is placed in your level will go **inside the currently selected layer.** To select a tile map layer or a regular layer, **click on it** in the **Layers Panel**.
+Anything that is placed in your level will go **inside the currently selected layer.**
+
+**To select** a tile map layer or a regular layer, **click on it** in the **Layers Panel**.
 
 
 ## Tile Maps
