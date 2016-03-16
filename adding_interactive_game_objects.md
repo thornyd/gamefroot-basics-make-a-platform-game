@@ -4,6 +4,6 @@ There are a bunch of **interactive game objects** that you can use. Characters, 
 
 To see these, click on the **Game objects** tab in the sidebar. To place them in your level, click on one to select it, and then click inside your level to place it.
 
+![](prefabs.gif)
 
-
-The game objects with **lightning icons** already have behaviors programmed into them. These are called **Prefabs** (short for pre-fabricated game object). For example the door is a prefab that has been programmed to open if the player walks up to it once they've collected a key.
+The game objects with **lightning icons** already have behaviors programmed into them. These are called **Prefabs** (short for pre-fabricated game object). For example, the **spikes** will instantly wipe out the player if they touch them.
