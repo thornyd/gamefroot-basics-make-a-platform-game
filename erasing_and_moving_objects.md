@@ -13,4 +13,4 @@ To switch back to drawing, select the **brush tool** from the toolbar.
 
 
 
-**Note:** You can only delete things inside the currently selected layer. We'll talk more about layers in the next couple of steps.
+**Note:** You can only delete things **inside the currently selected layer**. We'll talk more about layers in the next couple of steps.
