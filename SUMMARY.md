@@ -5,7 +5,7 @@
    * [Viewing the Game Level](Viewing_the_Game_level.md)
    * [Drawing terrain](drawing_terrain.md)
    * [Erasing and moving objects](erasing_and_moving_objects.md)
-   * [Moving things](erasing_and_moving_objects/moving_things.md)
+   * [Moving things](moving_things.md)
    * [Adding interactive Game Objects](adding_interactive_game_objects.md)
    * [Using Layers and Tile Maps for Game Objects and Terrain](using_layers_and_tile_maps_for_game_objects_and_te.md)
    * [Changing Properties of Game Objects](changing_properties_of_game_objects.md)
