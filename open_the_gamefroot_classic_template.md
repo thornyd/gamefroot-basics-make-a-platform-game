@@ -7,6 +7,9 @@ Open the **Gamefroot Classic Template** by clicking on it from the Start Fresh w
 If you don't see that, you can open it by clicking **File, New Game** from the menu bar.
 
 
+>**Tip:** If you learn better by watching videos, check out our **[Make a Game in 5 minutes](https://youtu.be/pJM_w0xuWyk)** video tutorial.
+
+
 
 ##Start by playing the game
 
