@@ -1,4 +1,4 @@
-#Experiment with game objects improve your game
+#Experiment!
 
 Try placing a few different game objects into your level, [see what properties they have for you to change,](http://gamefroot.com/knowledgebase/#classic-prefabs) and then play your game.
 
