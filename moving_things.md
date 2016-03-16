@@ -1,4 +1,4 @@
-### Moving things {#moving-things}
+#Moving things
 
 If you want to move something in your level without having to delete it and draw it again, you can use the **selection tool**.
 
