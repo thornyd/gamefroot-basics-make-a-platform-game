@@ -8,3 +8,4 @@ The **Gamefroot Classic Template** allows you to build on to a platform game. Th
 
 Click **LET'S GO!** to begin.
 
+[LET'](https://thornyd.gitbooks.io/gamefroot-basics-make-a-platform-game/content/open_the_gamefroot_classic_template.html)
